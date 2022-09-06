@@ -36,5 +36,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebasalgados&show_icons=true&locale=en&layout=compact" alt="sebasalgados" /></p>
 
+<img width="200" alt="bootcamp-desarrollo-de-aplicaciones-moviles-android-trainee (4)" src="https://user-images.githubusercontent.com/96321490/188569068-ccc689ba-3748-413a-8b45-4973901f9bcc.png">
 
 
