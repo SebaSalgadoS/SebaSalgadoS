@@ -5,7 +5,6 @@
     <img src="https://user-images.githubusercontent.com/96321490/176164415-90710325-1b8a-4da2-850c-68d594592c36.png" width="100%" alt="header" border="0" />
 </a>
 
-<!--
 
 ### Tecnoligias.
 
