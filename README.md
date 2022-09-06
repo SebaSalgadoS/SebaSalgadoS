@@ -1,5 +1,5 @@
 
-### Hi, im Sebastian 😸
+<h2> Hi, I'm Sebastian! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <a href="https://nelkit.dev/" style="width:100%">
     <img src="https://user-images.githubusercontent.com/96321490/176164415-90710325-1b8a-4da2-850c-68d594592c36.png" width="100%" alt="header" border="0" />
