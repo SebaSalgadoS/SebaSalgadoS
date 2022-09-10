@@ -9,10 +9,39 @@
 
 <p align="left"> <a href="https://twitter.com/nordor_dev" target="blank"><img src="https://img.shields.io/twitter/follow/nordor_dev?logo=twitter&style=for-the-badge" alt="nordor_dev" /></a> </p>
 
+<h3 align="left">🔹 🧑🏻 Acerca de mi:</h3>
+
+Soy Desarrollador Android Trainee Nativo,me encanta la programcion siempre busco aprender y practicar nuevas tecnologias, no solo relacionadas al desarrollo mobile
+algunas de los framework/tecnologias dentro de  Android Studio que manejo son :
+
+◽ Retrofit
+
+◽ Room
+
+◽ MvvM - MVP
+
+◽ Jetpack Compose
+
+◽ Glide - Picasso
+
+◽ SQLite
+
+◽ Injeccion de dependencias - Dagger Hilt
+
+🔹⚡ Fun Fact:
+
+Me apacionan los videojuegos, la ciencia ficcion y  la fantasia, tambien me encantan los gatos 😻
+algunos de mis juegos favoritos son Fire Emblem, Guild wars 2 y League of Legends 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebasalgados&label=Profile%20views&color=0e75b6&style=flat" alt="sebasalgados" /> </p>
 
 - 🌱 I’m currently learning **GO, and Python**
+
+- 💬 Ask me about **Kotlin - Android Studio - PostgreSQL**
+
+- 📄 Know about my experiences [https://www.credly.com/badges/02d9acc3-e857-4078-b6ec-f7cc3d1a9095/public_url](https://www.credly.com/badges/02d9acc3-e857-4078-b6ec-f7cc3d1a9095/public_url)
+
 
 <h3 align="left">🔸 🔍 Encuentrame en:</h3>
 <p align="left">
