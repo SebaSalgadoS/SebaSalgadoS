@@ -11,7 +11,7 @@
 
 <h3 align="left">🔹 🧑🏻 Acerca de mi:</h3>
 
-Soy Desarrollador Android Trainee Nativo,me encanta la programcion siempre busco aprender y practicar nuevas tecnologias, no solo relacionadas al desarrollo mobile
+Soy Desarrollador Android Trainee Nativo,me encanta la programacion siempre busco aprender y practicar nuevas tecnologias, no solo relacionadas al desarrollo mobile
 algunas de los framework/tecnologias dentro de  Android Studio que manejo son :
 
 ◽ Retrofit
