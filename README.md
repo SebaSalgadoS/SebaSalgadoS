@@ -11,7 +11,7 @@
 
 <h3 align="left">🔹 🧑🏻 Acerca de mi:</h3>
 
-Soy Desarrollador Android Trainee Nativo,me encanta la programacion siempre busco aprender y practicar nuevas tecnologias, no solo relacionadas al desarrollo mobile
+Soy Desarrollador Android Trainee Nativo,me encanta la programacion siempre busco aprender y practicar nuevas tecnologias, no solo relacionadas al desarrollo mobile,
 algunas de los framework/tecnologias dentro de  Android Studio que manejo son :
 
 ◽ Retrofit
@@ -36,7 +36,7 @@ algunos de mis juegos favoritos son Fire Emblem, Guild wars 2 y League of Legend
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebasalgados&label=Profile%20views&color=0e75b6&style=flat" alt="sebasalgados" /> </p>
 
-- 🌱 I’m currently learning **GO, and Python**
+- 🌱 I’m currently learning **GO and Python**
 
 - 💬 Ask me about **Kotlin - Android Studio - PostgreSQL**
 
