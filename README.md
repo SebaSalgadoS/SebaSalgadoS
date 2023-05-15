@@ -55,10 +55,8 @@ algunos de mis juegos favoritos son Fire Emblem, Guild wars 2 y League of Legend
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebasalgados&show_icons=true&locale=en&layout=compact" alt="sebasalgados" /></p>
 
-<img width="200" alt="bootcamp-desarrollo-de-aplicaciones-moviles-android-trainee (4)" src="https://user-images.githubusercontent.com/96321490/188569068-ccc689ba-3748-413a-8b45-4973901f9bcc.png">
-
 <a href="https://www.credly.com/badges/02d9acc3-e857-4078-b6ec-f7cc3d1a9095/public_url">
-    <img width="200" alt="bootcamp-desarrollo-de-aplicaciones-moviles-android-trainee (4)" src="https://user-images.githubusercontent.com/96321490/188569068-ccc689ba-3748-413a-8b45-4973901f9bcc.png%22%3E">
+    <img width="200" src="https://user-images.githubusercontent.com/96321490/188569068-ccc689ba-3748-413a-8b45-4973901f9bcc.png">
 </a>
 
 
