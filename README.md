@@ -36,7 +36,7 @@ algunos de mis juegos favoritos son Fire Emblem, Guild wars 2 y League of Legend
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebasalgados&label=Profile%20views&color=0e75b6&style=flat" alt="sebasalgados" /> </p>
 
-- 🌱 I’m currently learning **GO and Python**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Kotlin - Android Studio - PostgreSQL**
 
