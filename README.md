@@ -74,7 +74,7 @@ Mis juegos favoritos: **Fire Emblem, Guild Wars 2 y League of Legends**
 <h3 align="left">📊 Estadísticas:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sebasalgados&show_icons=true&locale=en&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebasalgados&theme=tokyonight" />
 </p>
 
 ---
