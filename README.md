@@ -57,7 +57,6 @@ Mis juegos favoritos: **Fire Emblem, Guild Wars 2 y League of Legends**
 </p>
 
 ---
-
 <h3 align="left">🔸 💻 Tecnologías:</h3>
 
 <p align="left">
@@ -66,6 +65,9 @@ Mis juegos favoritos: **Fire Emblem, Guild Wars 2 y League of Legends**
   <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>&nbsp;
   <a href="https://kotlinlang.org"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/></a>&nbsp;
   <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>&nbsp;
+  <a href="https://flutter.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40"/></a>&nbsp;
+  <a href="https://angular.dev"><img src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" width="40"/></a>&nbsp;
+  <a href="https://reactnative.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/></a>&nbsp;
   <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
 </p>
 
