@@ -41,7 +41,7 @@ Mis juegos favoritos: **Fire Emblem, Guild Wars 2 y League of Legends**
   <img src="https://komarev.com/ghpvc/?username=sebasalgados&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-- 🌱 Actualmente aprendiendo **Python**  
+- 🌱 Actualmente aprendiendo **Ionic**  
 - 💬 Pregúntame sobre **Kotlin, Android, PostgreSQL**  
 - 📄 Certificado:  
   https://www.credly.com/badges/02d9acc3-e857-4078-b6ec-f7cc3d1a9095/public_url  
